@@ -67,7 +67,8 @@ My continuous learning journey includes deep dives into:
 - Emerging technologies and industry innovations.
 
 **Currently pursuing an MBA (iMBA) | University of Illinois Urbana-Champaign (online)**
-  
+
+  ---
 
 When I'm not architecting solutions and driving transformations, you'll find me:
 
@@ -82,9 +83,14 @@ These keep me sharp, balanced, and grounded in what matters most.
 ---
 
 Open to Opportunities
+
 I'm actively exploring my next engagement — with organizations that value a consultant who can develop the relationship, build the right solution, and stand behind what gets delivered.
+
 Roles I'm targeting: Solution Consultant · Sales Manager · Account Manager · Business Development · IT Consulting Lead
+
 If that sounds like a fit, let's talk.
+
 📩 jorgeemr72@gmail.com
+
 💼 linkedin.com/in/jorge-montenegro-pmp-828b99135
 
