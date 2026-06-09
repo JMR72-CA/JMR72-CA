@@ -1,6 +1,6 @@
-# Hello, I'm Jorge Montenegro! 👋
+# Hello, I'm Jorge Montenegro!
 
-**IT Sales Consultant | Account Manager | Project Leader - Canada
+**IT Sales Consultant | Account Manager | Product Owner | Project Leader - Canada
 *20+ years of experience driving digital and business transformation through strategic IT solutions*
 
 ---
@@ -38,7 +38,7 @@ Certifications: PMP (PMI) · PSM I (Scrum.org) · 120+ LinkedIn Learning certifi
 
 Technical fluency: Python · C · HTML · AI solution architecture · Enterprise systems
 
-**Specific project details are available upon request and subject to confidentiality agreements. For overview examples, visit my LinkedIn profile.
+Specific project details are available upon request and subject to confidentiality agreements. For overview examples, visit my LinkedIn profile.
 
 ##  Professional Background
 
@@ -73,7 +73,7 @@ My continuous learning journey includes deep dives into:
 When I'm not architecting solutions and driving transformations, you'll find me:
 
 - **Chess Enthusiast** - Testing strategy and tactics over the board (and admittedly losing more often than I'd like!)
-- **Reeading** - Currently: "Sinuhe the Egyptian" by Mike Waltari, the most humorous portrayal of everyday life in the time of the pharaohs
+- **Reeading** - Currently: "Sinuhe the Egyptian" by Mika Waltari, the most humorous portrayal of everyday life in the time of the pharaohs
 - **Dedicated Swimmer** - Maintaining fitness with 3 swims per week
 - **Gaming** - Quality time with my son, exploring new gaming adventures together
 - **Lifelong Learner** - Constantly exploring new technologies, methodologies, and perspectives
@@ -86,7 +86,8 @@ Open to Opportunities
 
 I'm actively exploring my next engagement — with organizations that value a consultant who can develop the relationship, build the right solution, and stand behind what gets delivered.
 
-Roles I'm targeting: Solution Consultant · Sales Manager · Account Manager · Business Development · IT Consulting Lead
+Roles I'm targeting: Solution Consultant · Sales Manager · Account Manager · Product Owner · IT Consulting Lead
+                     Project Manager · Digital Transformation Led · Businnes development             
 
 If that sounds like a fit, let's talk.
 
