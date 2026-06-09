@@ -1,6 +1,6 @@
 # Hello, I'm Jorge Montenegro!
 
-**IT Sales Consultant | Account Manager | Product Owner | Project Leader - Canada
+IT Sales Consultant | Account Manager | Product Owner | Project Leader - Canada
 *20+ years of experience driving digital and business transformation through strategic IT solutions*
 
 ---
