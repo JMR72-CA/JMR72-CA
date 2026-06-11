@@ -1,7 +1,8 @@
 # Hello, I'm Jorge Montenegro!
 
-IT Sales Consultant | Account Manager | Product Owner | Project Leader - Canada
-*20+ years of experience driving digital and business transformation through strategic IT solutions*
+**Digital Transformation Leader & AI Solutions Consultant · Account Manager · Product Owner — Canada 🇨🇦**
+
+*From paperless and digital onboarding to agentic AI: 20+ years driving digital transformation end-to-end — now leading into AI and intelligent automation, from concept to delivery
 
 ---
 
@@ -12,9 +13,7 @@ With 20+ years in the IT industry, I work across the full engagement cycle: from
 
 I don't sell technology. I sell outcomes — and I stay accountable to them.
 
-As a **certified Project Management Professional (PMP)** and **Scrum Master (PSM I)**, I excel at orchestrating end-to-end project lifecycles while driving profitable sales cycles. 
-
-I'm passionate about helping organizations transform through intelligent technology adoption and process optimization.
+As a BBA, MIT certificate, EADA Master, Lambton College BIBM, UIUC Gies College of Business MBA Candidate, and Indutry **certified Project Management Professional (PMP)** and **Scrum Master (PSM I)**, I'm passionate about helping organizations transform through intelligent technology adoption, AI agents and process optimization.
 
 ##  How I Engage
 
